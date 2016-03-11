@@ -33,6 +33,7 @@ $(document).ready(
     function(){
 
     addOnline(un, myColor);
+    //This is just for testing
     addOnline("TestPerson", "FF0000");
     addOnline("TestPerson2", "FFEA00");
     blankStatus();
